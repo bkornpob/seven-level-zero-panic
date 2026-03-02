@@ -3,7 +3,9 @@ datetime: "2026-03-02:2137+7"
 title: "Seven Levels. Zero Panic."
 author: ">dr.kb< feat. #Dab"
 affiliation: "InjectPrompt"
-source: "https://github.com/bkornpob/seven-level-zero-panic"
+source: 
+  - "https://github.com/bkornpob/seven-level-zero-panic"
+  - "https://claude.ai/public/artifacts/c10469cf-3300-4fc7-9e7d-2aa936fbd5a3"
 ```
 
 ---
