@@ -3,6 +3,7 @@ datetime: "2026-03-02:2137+7"
 title: "Seven Levels. Zero Panic."
 author: ">dr.kb< feat. #Dab"
 affiliation: "InjectPrompt"
+source: "https://github.com/bkornpob/seven-level-zero-panic"
 ```
 
 ---
